@@ -15,7 +15,7 @@ Set of AutoHotkey macroes for minecraft and worldedit.
 * `Ctrl V` //paste
 * `Ctrl Z` //undo
 
-Move selection blocks 
+**Move selection blocks**
 
 * `Ctrl + Numpad 1` moves selection 1 blocks where you're aiming
 * `Ctrl + Numpad 2`  " 2 blocks
@@ -28,7 +28,7 @@ Move selection blocks
 * `Ctrl + Numpad 9`  " 9 blocks
 * `Ctrl + Numpad 0`  " 10 blocks
 
-Stack selection blocks
+**Stack selection blocks**
 
 * `Alt + Numpad 1` stacks selection 1 time, where you're aiming
 * `Alt + Numpad 2`  " 2 times
